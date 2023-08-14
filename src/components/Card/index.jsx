@@ -4,17 +4,10 @@ import { useState } from 'react'
 import Modal from '../Modal'
 import './styles.css'
 
-export default function ({ date, city, place, isExternal, buttonText, url }) {
+const Card = ({ date, city, place, isExternal, buttonText, url }) => {
 
     const [showModal, setShowModal] = useState(false);
 
-
-
-    const handleButtonClick = () => {
-        if (isExternal) {
-            setOpen(true);
-        }
-    };
 
     return (
         <div className='carditem'>
@@ -22,7 +15,7 @@ export default function ({ date, city, place, isExternal, buttonText, url }) {
                 <span>{date}</span>
             </div>
             <div className='locationsection'>
-                <span style={{fontSize: '3vw'}}>{city}</span>
+                <span style={{ fontSize: '3vw' }}>{city}</span>
                 <span>{place}</span>
             </div>
             <div className='buttonsection'>
@@ -34,3 +27,7 @@ export default function ({ date, city, place, isExternal, buttonText, url }) {
         </div>
     )
 }
+
+Card.displayName = 'Card';
+
+export default Card

@@ -40,4 +40,6 @@ const Modal = ({ onClose, city }) => {
     );
 };
 
+Modal.displayName = 'Modal';
+
 export default Modal
