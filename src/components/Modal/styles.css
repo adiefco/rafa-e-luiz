@@ -1,0 +1,130 @@
+.modal {
+    width: 850px;
+    height: 482px;
+    display: flex;
+    border-radius: 24px;
+    background-color: rgb(255, 255, 255);
+
+    @media(max-width: 890px) {
+        width: 90%;
+    }
+}
+
+
+.modal-overlay {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background-color: rgba(18, 18, 18, 0.9);
+}
+
+form {
+    width: 62%;
+    height: 100%;
+    padding: 72px 48px;
+
+    @media(max-width: 890px) {
+        width: 100%;
+    }
+}
+
+.title {
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    line-height: 22px;
+    font-weight: 400;
+    font-size: 17px;
+    color: rgb(112, 112, 112);
+
+    @media(max-width: 435px) {
+        font-size: 4vw;
+    }
+}
+
+h2 {
+    margin-bottom: 32px;
+    max-width: 280px;
+    line-height: 38px;
+    font-weight: 600;
+    font-size: 26px;
+
+    @media(max-width: 435px) {
+        font-size: 6vw;
+    }
+}
+
+.inputtitle {
+    font-weight: 700;
+    line-height: 19px;
+    color: rgb(71, 38, 132);
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    height: 48px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(192, 192, 192);
+    padding: 16px 24px;
+    font-family: Blinker;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: rgb(0, 0, 0);
+}
+
+.buttonswrapper {
+    width: 100%;
+    display: flex;
+    justify-content: right;
+}
+
+.cancelbutton {
+    padding: 8px 32px;
+    margin-left: 16px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgb(112, 112, 112);
+    border: 1px solid rgb(112, 112, 112);
+    background-color: rgb(255, 255, 255);
+
+    @media(max-width: 435px) {
+        padding: 4px 16px;
+        font-size: 15px;
+    }
+}
+
+button[type='submit'] {
+    padding: 8px 32px;
+    margin-left: 16px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+    border: 1px solid transparent;
+    background-color: rgb(94, 59, 225);
+
+    @media(max-width: 435px) {
+        padding: 4px 16px;
+        font-size: 15px;
+    }
+}
+
+.imagemodal>img {
+    height: -webkit-fill-available;
+    width: auto;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+
+    @media(max-width: 890px) {
+        display: none;
+    }
+}
