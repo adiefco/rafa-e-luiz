@@ -3,7 +3,7 @@ import Footer from '@/components/Footer'
 import Image from 'next/image'
 import cards from './mocks.json'
 
-import './styles.css'
+import './styles.scss'
 
 export default function Home() {
   return (

@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import './styles.css'
+import './styles.scss'
 
 const Footer = () => {
     return (

@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import Image from "next/image";
 
-import './styles.css'
+import './styles.scss'
 
 const Modal = ({ onClose, city }) => {
     const handleCloseClick = (e) => {
