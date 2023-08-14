@@ -1,10 +1,9 @@
 h1 {
     font-size: 4rem;
-    font-family: 'Black Witcher Personal Use';
     color: #fff;
     margin: 10px;
 
-    @media(max-width: 900px) {
+    @media (max-width: 900px) {
         font-size: 2rem;
     }
 }

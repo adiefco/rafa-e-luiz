@@ -26,16 +26,3 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-
-@font-face {
-  font-family: 'Walrus';
-  src: url('../assets/Walrus-Bold.otf') format('otf');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Ostrid';
-  src: url('../assets/OstrichSans-Heavy.otf') format('otf');
-}

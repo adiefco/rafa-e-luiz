@@ -5,7 +5,7 @@
     border-radius: 24px;
     background-color: rgb(255, 255, 255);
 
-    @media(max-width: 890px) {
+    @media (max-width: 890px) {
         width: 90%;
     }
 }
@@ -28,7 +28,7 @@ form {
     height: 100%;
     padding: 72px 48px;
 
-    @media(max-width: 890px) {
+    @media (max-width: 890px) {
         width: 100%;
     }
 }
@@ -41,7 +41,7 @@ form {
     font-size: 17px;
     color: rgb(112, 112, 112);
 
-    @media(max-width: 435px) {
+    @media (max-width: 435px) {
         font-size: 4vw;
     }
 }
@@ -53,7 +53,7 @@ h2 {
     font-weight: 600;
     font-size: 26px;
 
-    @media(max-width: 435px) {
+    @media (max-width: 435px) {
         font-size: 6vw;
     }
 }
@@ -96,7 +96,7 @@ input[type="email"] {
     border: 1px solid rgb(112, 112, 112);
     background-color: rgb(255, 255, 255);
 
-    @media(max-width: 435px) {
+    @media (max-width: 435px) {
         padding: 4px 16px;
         font-size: 15px;
     }
@@ -112,7 +112,7 @@ button[type='submit'] {
     border: 1px solid transparent;
     background-color: rgb(94, 59, 225);
 
-    @media(max-width: 435px) {
+    @media (max-width: 435px) {
         padding: 4px 16px;
         font-size: 15px;
     }
@@ -124,7 +124,7 @@ button[type='submit'] {
     border-top-right-radius: 24px;
     border-bottom-right-radius: 24px;
 
-    @media(max-width: 890px) {
+    @media (max-width: 890px) {
         display: none;
     }
 }

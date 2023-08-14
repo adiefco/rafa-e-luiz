@@ -12,10 +12,14 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className='dark'>
       <head>
+      <title>O mistério do circo | Enaldinho | Agenda/</title>
       <link href="https://fonts.cdnfonts.com/css/ostrich-sans-2" rel="stylesheet"/>
-      <link href="https://fonts.cdnfonts.com/css/black-witcher-personal-use" rel="stylesheet" />
-                
+      <link href="https://fonts.cdnfonts.com/css/insaniburger-with-cheese" rel="stylesheet"></link>
+      <link href="https://fonts.cdnfonts.com/css/bracheos" rel="stylesheet"/>
+      <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet"/>
       <link href="https://fonts.cdnfonts.com/css/walrus" rel="stylesheet" />
+      <meta name="description" content="Agenda de shows da Rafa e Luiz"/>
+      
       </head>
       <body className={inter.className}>
       <div id="modal-root"></div>

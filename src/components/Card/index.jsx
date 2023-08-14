@@ -22,7 +22,7 @@ export default function ({ date, city, place, isExternal, buttonText, url }) {
                 <span>{date}</span>
             </div>
             <div className='locationsection'>
-                <span style={{fontSize: '2.3vw'}}>{city}</span>
+                <span style={{fontSize: '3vw'}}>{city}</span>
                 <span>{place}</span>
             </div>
             <div className='buttonsection'>
