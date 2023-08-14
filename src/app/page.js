@@ -23,8 +23,8 @@ export default function Home() {
         <div style={{ display: 'flex', alignItems: 'center' }}>
           <h1>AGENDA</h1>
         </div>
-        {cards.map((card) =>
-          <Card date={card.date} city={card.city} place={card.place} isExternal={card.isExternal} buttonText={card.buttonText} />
+        {cards.map((card, key) =>
+          <Card key={key} date={card.date} city={card.city} place={card.place} isExternal={card.isExternal} buttonText={card.buttonText} />
         )}
       </div>
       <Footer />
