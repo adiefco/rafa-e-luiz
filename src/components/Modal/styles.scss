@@ -123,6 +123,7 @@ button[type='submit'] {
     width: auto;
     border-top-right-radius: 24px;
     border-bottom-right-radius: 24px;
+    object-fit: cover;
 
     @media (max-width: 890px) {
         display: none;
