@@ -15,8 +15,8 @@ const Card = ({ date, city, place, isExternal, buttonText, url }) => {
                 <span>{date}</span>
             </div>
             <div className='locationsection'>
-                <span style={{ fontSize: '3vw', lineHeight:'1' }}>{city}</span>
-                <span>{place}</span>
+                <span className='city'>{city}</span>
+                <span className='venue'>{place}</span>
             </div>
             <div className='buttonsection'>
                 <button onClick={() => setShowModal(true)}>

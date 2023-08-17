@@ -16,7 +16,10 @@ export default function RootLayout({ children }) {
       <link href="https://fonts.cdnfonts.com/css/bracheos" rel="stylesheet"/>
       <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet"/>
       <link href="https://fonts.cdnfonts.com/css/walrus" rel="stylesheet" />
-      
+      <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet" />
+      <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet" />
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet" />
+
       </head>
       <body className={inter.className}>
       <div id="modal-root"></div>

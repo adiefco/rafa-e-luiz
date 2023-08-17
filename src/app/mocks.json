@@ -4,55 +4,55 @@
         "place": "Teatro Multiplan",
         "date": "8 out 2023",
         "isExternal": false,
-        "buttonText": "avise -me"
+        "buttonText": "avise-me"
     },
     {
         "city": "São Paulo",
-        "place": "Vibra",
+        "place": "VIBRA São Paulo",
         "date": "11 out 2023",
         "isExternal": false,
-        "buttonText": "avise -me"
+        "buttonText": "avise-me"
     },
     {
         "city": "Belo Horizonte",
         "place": "Teatro Minascentro",
         "date": "14 out 2023",
         "isExternal": false,
-        "buttonText": "avise -me"
+        "buttonText": "avise-me"
     },
     {
         "city": "Natal",
         "place": "Teatro Riachuelo",
         "date": "29 out 2023",
         "isExternal": false,
-        "buttonText": "avise -me"
+        "buttonText": "avise-me"
     },
     {
         "city": "Brasília",
-        "place": "Ulysses Guimarães",
+        "place": "C.C. Ulysses Guimarães",
         "date": "2 nov 2023",
         "isExternal": false,
-        "buttonText": "avise -me"
+        "buttonText": "avise-me"
     },
     {
         "city": "Curitiba",
         "place": "Teatro Positivo",
         "date": "4 nov 2023",
         "isExternal": false,
-        "buttonText": "avise -me"
+        "buttonText": "avise-me"
     },
     {
         "city": "Porto Alegre",
         "place": "Salão de Atos PucRS",
         "date": "12 nov 2023",
         "isExternal": false,
-        "buttonText": "avise -me"
+        "buttonText": "avise-me"
     },
     {
         "city": "Goiânia",
-        "place": "PUC Goiás",
+        "place": "Centro de Convenções da PUC Goiás",
         "date": "24 nov 2023",
         "isExternal": false,
-        "buttonText": "avise -me"
+        "buttonText": "avise-me"
     }
 ]
