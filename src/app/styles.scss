@@ -7,3 +7,10 @@ h1 {
         font-size: 2rem;
     }
 }
+
+img[alt="Banner"] {
+    @media (max-width: 450px) {
+        object-fit: cover;
+        height: 25vh !important;
+    }
+}

@@ -18,7 +18,7 @@ export default function Home() {
           style={{ width: '100%', height: 'auto' }}
         />
       </div>
-      <div style={{ backgroundColor: '#7b00f0', display: 'flex', alignItems: 'center', flexDirection: 'column', background: 'linear-gradient(180deg, rgba(121,0,255,1) 0%, rgba(3,2,36,1) 100%);' }}>
+      <div style={{ backgroundColor: '#7b00f0', display: 'flex', alignItems: 'center', flexDirection: 'column', background: 'linear-gradient(180deg, rgba(121,0,255,1) 0%, rgba(3,2,36,1) 100%)' }}>
         <div style={{ display: 'flex', alignItems: 'center' }}>
           <Image src='/estrela-cadente-2.png' width={50} height={32} style={{ transform: 'scaleX(-1)' }}/><h1 style={{fontFamily: 'Luckiest Guy'}}>AGENDA</h1><Image src='/estrela-cadente-2.png' width={50} height={32}/>
         </div>
