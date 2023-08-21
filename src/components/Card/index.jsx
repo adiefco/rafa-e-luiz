@@ -8,6 +8,14 @@ const Card = ({ date, city, place, isExternal, buttonText, url }) => {
 
     const [showModal, setShowModal] = useState(false);
 
+    var classname
+
+    if (buttonText === 'Ingressos') {
+        classname = 'available'
+    } else if (buttonText === 'Ver fotos') {
+        classname = 'finished'
+    } 
+
 
     return (
         <div className='carditem'>
@@ -19,7 +27,7 @@ const Card = ({ date, city, place, isExternal, buttonText, url }) => {
                 <span className='venue'>{place}</span>
             </div>
             <div className='buttonsection'>
-                <button onClick={() => setShowModal(true)}>
+                <button className={classname} onClick={() => setShowModal(true)}>
                     {buttonText}</button>
 
             </div>

@@ -74,7 +74,7 @@
 }
 
 .city {
-    font-size: 4.5vw;
+    font-size: 4vw;
     line-height: 1;
     white-space: nowrap; 
     font-family: 'Bebas Neue';
@@ -123,11 +123,15 @@ button {
     text-transform: uppercase;
     color: #000;
     cursor: pointer;
-    background-color: #D7DE21;
+    background-color: rgb(255, 213, 77);
     font-family: 'Roboto Mono';
 
     @media (max-width: 900px) {
         width: 40%;
         font-size: 1rem;
     }
+}
+
+.available {
+    background-color: #fff;
 }
