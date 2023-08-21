@@ -1,17 +1,17 @@
 [
     {
-        "city": "Rio de Janeiro",
-        "place": " ",
-        "date": "Em breve",
-        "isExternal": false,
-        "buttonText": "avise-me"
-    },
-    {
         "city": "São Paulo",
         "place": "VIBRA São Paulo",
         "date": "11 out 2023",
         "isExternal": false,
         "buttonText": "Ingressos"
+    },
+    {
+        "city": "Rio de Janeiro",
+        "place": " ",
+        "date": "Em breve",
+        "isExternal": false,
+        "buttonText": "avise-me"
     },
     {
         "city": "Curitiba",
