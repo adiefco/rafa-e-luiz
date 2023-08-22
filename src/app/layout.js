@@ -1,3 +1,5 @@
+import { Analytics } from '@vercel/analytics/react';
+
 import './globals.css'
 import { Inter } from 'next/font/google'
 
@@ -24,6 +26,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
       <div id="modal-root"></div>
         {children}
+        <Analytics />
         </body>
     </html>
   )
