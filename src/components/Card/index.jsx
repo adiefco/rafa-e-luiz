@@ -27,9 +27,9 @@ const Card = ({ date, city, place, isExternal, buttonText, url }) => {
                 <span className='venue'>{place}</span>
             </div>
             <div className='buttonsection'>
-                {buttonText === 'avise-me' && <button onClick={() => setShowModal(true)}>
+                {!isExternal && <button onClick={() => setShowModal(true)}>
                     {buttonText}</button>}
-                {buttonText === 'Ingressos' && <a className={classname}>{buttonText}</a>}
+                {isExternal && <a href={url} target="_blank" className={classname}>{buttonText}</a>}
 
             </div>
             {showModal && <Modal onClose={() => setShowModal(false)} city={city} ></Modal>}

@@ -23,7 +23,7 @@ export default function Home() {
           <Image src='/estrela-cadente-2.png' width={50} height={32} style={{ transform: 'scaleX(-1)' }}/><h1 style={{fontFamily: 'Luckiest Guy'}}>AGENDA</h1><Image src='/estrela-cadente-2.png' width={50} height={32}/>
         </div>
         {cards.map((card, key) =>
-          <Card key={key} date={card.date} city={card.city} place={card.place} isExternal={card.isExternal} buttonText={card.buttonText} />
+          <Card key={key} date={card.date} city={card.city} place={card.place} isExternal={card.isExternal} buttonText={card.buttonText} url={card.url} />
         )}
       </div>
       <Footer />
