@@ -7,15 +7,17 @@
         "buttonText": "Ingressos",
         "url": "https://uhuu.com/evento/sp/sao-paulo/rafa-luiz-a-descoberta-do-verdadeiro-face-12038"
     },
-    {
-        "city": "Rio de Janeiro",
-        "place": " ",
-        "date": "Em breve",
-        "isExternal": false,
-        "buttonText": "avise-me"
-    },
+    
     {
         "city": "Curitiba",
+        "place": "Teatro Positivo",
+        "date": "04 nov 2023",
+        "isExternal": true,
+        "buttonText": "Ingressos",
+        "url": "https://www.diskingressos.com.br/event/5449"
+    },
+    {
+        "city": "Rio de Janeiro",
         "place": " ",
         "date": "Em breve",
         "isExternal": false,
