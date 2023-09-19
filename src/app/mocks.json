@@ -15,16 +15,17 @@
         "isExternal": true,
         "buttonText": "Ingressos",
         "url": "https://www.diskingressos.com.br/event/5449"
+    },    
+    {
+        "city": "Goiânia",
+        "place": "Centro de Convenções PUC Goiás",
+        "date": "24 nov 2023",
+        "isExternal": true,
+        "buttonText": "Ingressos",
+        "url": "https://minhaentrada.com.br/evento/rafa-e-luiz-em-a-descoberta-do-verdadeiro-face-21981"
     },
     {
         "city": "Rio de Janeiro",
-        "place": " ",
-        "date": "Em breve",
-        "isExternal": false,
-        "buttonText": "avise-me"
-    },
-    {
-        "city": "Goiânia",
         "place": " ",
         "date": "Em breve",
         "isExternal": false,
