@@ -26,9 +26,10 @@
     },
     {
         "city": "Rio de Janeiro",
-        "place": " ",
-        "date": "Em breve",
-        "isExternal": false,
-        "buttonText": "avise-me"
+        "place": "Qualistage",
+        "date": "10 dez 2023",
+        "isExternal": true,
+        "buttonText": "Ingressos",
+        "url": "https://www.eventim.com.br/artist/rafa-luiz/"
     }
 ]
