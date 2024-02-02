@@ -1,11 +1,10 @@
 [
     {
-        "city": "Rio de Janeiro",
-        "place": "Qualistage",
-        "date": "10 dez 2023",
-        "isExternal": true,
-        "buttonText": "Ver Fotos",
-        "url": "https://drive.google.com/drive/folders/1x672eJgz3ClJkP5Ufj5jlistc0BxmS1S?usp=drive_link"
+        "city": "Belo Horizonte",
+        "place": "Minas Centro",
+        "date": "27 abr 2024",
+        "isExternal": false,
+        "buttonText": "avise-me"
     },
     {
         "city": "São Paulo",
@@ -22,5 +21,13 @@
         "isExternal": true,
         "buttonText": "Ver Fotos",
         "url": "https://drive.google.com/drive/folders/1aYgPI2tbdF7ULAAtNp6NPCkyY3-5e3VQ"
+    },
+    {
+        "city": "Rio de Janeiro",
+        "place": "Qualistage",
+        "date": "10 dez 2023",
+        "isExternal": true,
+        "buttonText": "Ver Fotos",
+        "url": "https://drive.google.com/drive/folders/1x672eJgz3ClJkP5Ufj5jlistc0BxmS1S?usp=drive_link"
     }
 ]
