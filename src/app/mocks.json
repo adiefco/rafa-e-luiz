@@ -9,28 +9,24 @@
     },
     {
         "city": "Porto Alegre",
-        "place": "Teatro Sesi",
         "date": "4 mai 2024",
         "isExternal": false,
         "buttonText": "avise-me"
     },
     {
         "city": "Curitiba",
-        "place": "Teatro Positivo",
         "date": "30 jun 2024",
         "isExternal": false,
         "buttonText": "avise-me"
     },
     {
         "city": "São Paulo",
-        "place": "Vibra",
         "date": "6 jul 2024",
         "isExternal": false,
         "buttonText": "avise-me"
     },
     {
         "city": "Rio de Janeiro",
-        "place": "Qualistage",
         "date": "13 out 2024",
         "isExternal": false,
         "buttonText": "avise-me"
