@@ -9,6 +9,7 @@
     },
     {
         "city": "Porto Alegre",
+        "place": "Teatro Sesi",
         "date": "4 mai 2024",
         "isExternal": false,
         "buttonText": "avise-me"
