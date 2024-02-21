@@ -28,6 +28,12 @@
         "buttonText": "avise-me"
     },
     {
+        "city": "Maceió",
+        "date": "10 ago 2024",
+        "isExternal": false,
+        "buttonText": "avise-me"
+    },
+    {
         "city": "Rio de Janeiro",
         "date": "13 out 2024",
         "isExternal": false,
