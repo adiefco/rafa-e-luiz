@@ -17,9 +17,11 @@
     },
     {
         "city": "Curitiba",
+        "place": "Teatro Positivo",
         "date": "30 jun 2024",
-        "isExternal": false,
-        "buttonText": "avise-me"
+        "isExternal": true,
+        "buttonText": "Ingressos",
+        "url": "https://www.diskingressos.com.br/event/6481"
     },
     {
         "city": "São Paulo",
