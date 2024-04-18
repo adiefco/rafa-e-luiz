@@ -10,7 +10,7 @@
     {
         "city": "Porto Alegre",
         "place": "Teatro Sesi",
-        "date": "4 mai 2024",
+        "date": "04 mai 2024",
         "isExternal": true,
         "buttonText": "Ingressos",
         "url": "https://bileto.sympla.com.br/event/91359"
@@ -25,7 +25,7 @@
     },
     {
         "city": "São Paulo",
-        "date": "6 jul 2024",
+        "date": "06 jul 2024",
         "isExternal": false,
         "buttonText": "avise-me"
     },
@@ -67,7 +67,7 @@
     },
     {
         "city": "Belém",
-        "date": "1 dez 2024",
+        "date": "01 dez 2024",
         "isExternal": false,
         "buttonText": "avise-me"
     }
