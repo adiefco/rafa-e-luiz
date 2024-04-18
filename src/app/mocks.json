@@ -42,8 +42,32 @@
         "buttonText": "avise-me"
     },
     {
+        "city": "Brasília",
+        "date": "19 out 2024",
+        "isExternal": false,
+        "buttonText": "avise-me"
+    },
+    {
+        "city": "Goiânia",
+        "date": "20 out 2024",
+        "isExternal": false,
+        "buttonText": "avise-me"
+    },
+    {
         "city": "Recife",
         "date": "24 nov 2024",
+        "isExternal": false,
+        "buttonText": "avise-me"
+    },
+    {
+        "city": "Manaus",
+        "date": "30 nov 2024",
+        "isExternal": false,
+        "buttonText": "avise-me"
+    },
+    {
+        "city": "Belém",
+        "date": "1 dez 2024",
         "isExternal": false,
         "buttonText": "avise-me"
     }
