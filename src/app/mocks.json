@@ -31,17 +31,17 @@
         "url": "https://uhuu.com/evento/sp/sao-paulo/rafa-luis-em-a-descoberta-do-verdadeiro-face-13053"
     },
     {
-        "city": "Maceió",
-        "date": "06 out 2024",
-        "isExternal": false,
-        "buttonText": "avise-me"
-    },
-    {
         "city": "Rio de Janeiro",
         "date": "13 out 2024",
         "isExternal": true,
         "buttonText": "Ingressos",
         "url": "https://qualistage.com.br/evento/223/rafa-e-luiz"
+    },
+    {
+        "city": "Maceió",
+        "date": "06 out 2024",
+        "isExternal": false,
+        "buttonText": "avise-me"
     },
     {
         "city": "Brasília",
