@@ -14,7 +14,9 @@ const Card = ({ date, city, place, isExternal, buttonText, url }) => {
         classname = 'available'
     } else if (buttonText === 'Ver fotos') {
         classname = 'finished'
-    } 
+    } else if (buttonText === 'Esgotado') {
+        classname = 'unavailable'
+    }
 
 
     return (
