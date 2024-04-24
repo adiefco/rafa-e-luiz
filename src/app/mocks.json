@@ -3,9 +3,8 @@
         "city": "Belo Horizonte",
         "place": "Minascentro",
         "date": "27 abr 2024",
-        "isExternal": true,
-        "buttonText": "Esgotado",
-        "url": "https://bileto.sympla.com.br/event/91067/d/240352"
+        "isExternal": false,
+        "buttonText": "Esgotado"
     },
     {
         "city": "Porto Alegre",
