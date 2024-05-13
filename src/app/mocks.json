@@ -10,10 +10,9 @@
     {
         "city": "Porto Alegre",
         "place": "Teatro Sesi",
-        "date": "18 mai 2024",
-        "isExternal": true,
-        "buttonText": "Ingressos",
-        "url": "https://bileto.sympla.com.br/event/91359"
+        "date": "adiado",
+        "isExternal": false,
+        "buttonText": "avise-me"
     },
     {
         "city": "Curitiba",
