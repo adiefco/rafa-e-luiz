@@ -24,6 +24,7 @@
     },
     {
         "city": "São Paulo",
+        "place": "VIBRA",
         "date": "06 jul 2024",
         "isExternal": true,
         "buttonText": "Ingressos",
@@ -31,6 +32,7 @@
     },
     {
         "city": "Rio de Janeiro",
+        "place": "Qualistage"
         "date": "13 out 2024",
         "isExternal": true,
         "buttonText": "Ingressos",
@@ -57,8 +59,9 @@
     {
         "city": "Recife",
         "date": "24 nov 2024",
-        "isExternal": false,
-        "buttonText": "avise-me"
+        "isExternal": true,
+        "buttonText": "Ingressos",
+        "url": "https://cecontickets.com.br/rafa-luiz-em-a-descoberta-do-verdadeiro-face__1726"
     },
     {
         "city": "Manaus",
