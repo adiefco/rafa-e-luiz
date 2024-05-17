@@ -32,11 +32,19 @@
     },
     {
         "city": "Rio de Janeiro",
-        "place": "Qualistage"
+        "place": "Qualistage",
         "date": "13 out 2024",
         "isExternal": true,
         "buttonText": "Ingressos",
         "url": "https://qualistage.com.br/evento/223/rafa-e-luiz"
+    },
+    {
+        "city": "Recife",
+        "place": "Teatro Guararapes",
+        "date": "24 nov 2024",
+        "isExternal": true,
+        "buttonText": "Ingressos",
+        "url": "https://cecontickets.com.br/rafa-luiz-em-a-descoberta-do-verdadeiro-face__1726"
     },
     {
         "city": "Maceió",
@@ -55,13 +63,6 @@
         "date": "20 out 2024",
         "isExternal": false,
         "buttonText": "avise-me"
-    },
-    {
-        "city": "Recife",
-        "date": "24 nov 2024",
-        "isExternal": true,
-        "buttonText": "Ingressos",
-        "url": "https://cecontickets.com.br/rafa-luiz-em-a-descoberta-do-verdadeiro-face__1726"
     },
     {
         "city": "Manaus",
