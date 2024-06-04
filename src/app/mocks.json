@@ -57,8 +57,9 @@
     {
         "city": "Maceió",
         "date": "06 out 2024",
-        "isExternal": false,
-        "buttonText": "avise-me"
+        "isExternal": true,
+        "buttonText": "Ingressos",
+        "url": "https://bileto.sympla.com.br/event/94829"
     },
     {
         "city": "Brasília",
