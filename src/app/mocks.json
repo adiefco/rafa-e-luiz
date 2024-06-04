@@ -39,6 +39,13 @@
         "url": "https://www.guichelive.com.br/kidzhouse-festival_31197"
     },
     {
+        "city": "Maceió",
+        "date": "06 out 2024",
+        "isExternal": true,
+        "buttonText": "Ingressos",
+        "url": "https://bileto.sympla.com.br/event/94829"
+    },
+    {
         "city": "Rio de Janeiro",
         "place": "Qualistage",
         "date": "13 out 2024",
@@ -53,13 +60,6 @@
         "isExternal": true,
         "buttonText": "Ingressos",
         "url": "https://cecontickets.com.br/rafa-luiz-em-a-descoberta-do-verdadeiro-face__1726"
-    },
-    {
-        "city": "Maceió",
-        "date": "06 out 2024",
-        "isExternal": true,
-        "buttonText": "Ingressos",
-        "url": "https://bileto.sympla.com.br/event/94829"
     },
     {
         "city": "Brasília",
