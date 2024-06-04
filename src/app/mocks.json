@@ -31,7 +31,7 @@
         "url": "https://uhuu.com/evento/sp/sao-paulo/rafa-luis-em-a-descoberta-do-verdadeiro-face-13053"
     },
     {
-        "city": "kidzHouse Festval",
+        "city": "KidzHouse Festival",
         "place": "São Paulo",
         "date": "20 jul 2024",
         "isExternal": true,
@@ -40,6 +40,7 @@
     },
     {
         "city": "Maceió",
+        "place": "Teatro Gustavo Leite",
         "date": "06 out 2024",
         "isExternal": true,
         "buttonText": "Ingressos",
