@@ -1,19 +1,5 @@
 [
-    {
-        "city": "Belo Horizonte",
-        "place": "Minascentro",
-        "date": "27 abr 2024",
-        "isExternal": true,
-        "buttonText": "Ver fotos",
-        "url": "https://drive.google.com/drive/folders/1ygegF7zbdnL0nXib77sgk_Z4cNMBHrbt?usp=sharing"
-    },
-    {
-        "city": "Porto Alegre",
-        "place": "Teatro Sesi",
-        "date": "adiado",
-        "isExternal": false,
-        "buttonText": "avise-me"
-    },
+    
     {
         "city": "Curitiba",
         "place": "Teatro Positivo",
@@ -83,6 +69,21 @@
     {
         "city": "Belém",
         "date": "01 dez 2024",
+        "isExternal": false,
+        "buttonText": "avise-me"
+    },
+    {
+        "city": "Belo Horizonte",
+        "place": "Minascentro",
+        "date": "27 abr 2024",
+        "isExternal": true,
+        "buttonText": "Ver fotos",
+        "url": "https://drive.google.com/drive/folders/1ygegF7zbdnL0nXib77sgk_Z4cNMBHrbt?usp=sharing"
+    },
+    {
+        "city": "Porto Alegre",
+        "place": "Teatro Sesi",
+        "date": "adiado",
         "isExternal": false,
         "buttonText": "avise-me"
     }
