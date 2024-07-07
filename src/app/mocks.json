@@ -1,20 +1,13 @@
 [
     
-    {
-        "city": "Curitiba",
-        "place": "Teatro Positivo",
-        "date": "30 jun 2024",
-        "isExternal": true,
-        "buttonText": "Ver Fotos",
-        "url": "https://drive.google.com/drive/folders/1JfSgBiKaQkQKteuycEZAw3bkirtE5ztJ?usp=sharing"
-    },
+    
     {
         "city": "São Paulo",
         "place": "VIBRA",
         "date": "06 jul 2024",
         "isExternal": true,
-        "buttonText": "Ingressos",
-        "url": "https://uhuu.com/evento/sp/sao-paulo/rafa-luis-em-a-descoberta-do-verdadeiro-face-13053"
+        "buttonText": "Ver Fotos",
+        "url": "https://drive.google.com/drive/folders/17w_f8nnrbG-h1Mp_rPaoSGFap2Xdqnvd?usp=sharing"
     },
     {
         "city": "KidzHouse Festival",
@@ -79,6 +72,14 @@
         "isExternal": true,
         "buttonText": "Ver fotos",
         "url": "https://drive.google.com/drive/folders/1ygegF7zbdnL0nXib77sgk_Z4cNMBHrbt?usp=sharing"
+    },
+    {
+        "city": "Curitiba",
+        "place": "Teatro Positivo",
+        "date": "30 jun 2024",
+        "isExternal": true,
+        "buttonText": "Ver Fotos",
+        "url": "https://drive.google.com/drive/folders/1JfSgBiKaQkQKteuycEZAw3bkirtE5ztJ?usp=sharing"
     },
     {
         "city": "Porto Alegre",
