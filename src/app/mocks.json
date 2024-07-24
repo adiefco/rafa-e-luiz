@@ -1,22 +1,5 @@
 [
     
-    
-    {
-        "city": "São Paulo",
-        "place": "VIBRA",
-        "date": "06 jul 2024",
-        "isExternal": true,
-        "buttonText": "Ver Fotos",
-        "url": "https://drive.google.com/drive/folders/17w_f8nnrbG-h1Mp_rPaoSGFap2Xdqnvd?usp=sharing"
-    },
-    {
-        "city": "KidzHouse Festival",
-        "place": "São Paulo",
-        "date": "20 jul 2024",
-        "isExternal": true,
-        "buttonText": "Ingressos",
-        "url": "https://www.guichelive.com.br/kidzhouse-festival_31197"
-    },
     {
         "city": "Maceió",
         "place": "Teatro Gustavo Leite",
@@ -40,18 +23,6 @@
         "isExternal": true,
         "buttonText": "Ingressos",
         "url": "https://cecontickets.com.br/rafa-luiz-em-a-descoberta-do-verdadeiro-face__1726"
-    },
-    {
-        "city": "Brasília",
-        "date": "19 out 2024",
-        "isExternal": false,
-        "buttonText": "avise-me"
-    },
-    {
-        "city": "Goiânia",
-        "date": "20 out 2024",
-        "isExternal": false,
-        "buttonText": "avise-me"
     },
     {
         "city": "Manaus",
@@ -80,6 +51,14 @@
         "isExternal": true,
         "buttonText": "Ver Fotos",
         "url": "https://drive.google.com/drive/folders/1JfSgBiKaQkQKteuycEZAw3bkirtE5ztJ?usp=sharing"
+    },
+    {
+        "city": "São Paulo",
+        "place": "VIBRA",
+        "date": "06 jul 2024",
+        "isExternal": true,
+        "buttonText": "Ver Fotos",
+        "url": "https://drive.google.com/drive/folders/17w_f8nnrbG-h1Mp_rPaoSGFap2Xdqnvd?usp=sharing"
     },
     {
         "city": "Porto Alegre",
