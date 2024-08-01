@@ -62,7 +62,6 @@
     },
     {
         "city": "Porto Alegre",
-        "place": "Teatro Sesi",
         "date": "adiado",
         "isExternal": false,
         "buttonText": "avise-me"
