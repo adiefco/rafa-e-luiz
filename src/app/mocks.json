@@ -19,14 +19,16 @@
     {
         "city": "Manaus",
         "date": "30 nov 2024",
-        "isExternal": false,
-        "buttonText": "avise-me"
+        "isExternal": true,
+        "buttonText": "Ingressos",
+        "url": "https://www.ingressomix.com/evento/503,504/rafa-e-luiz-em-a-descoberta-do-verdadeiro-face-manaus"
     },
     {
         "city": "Belém",
         "date": "01 dez 2024",
-        "isExternal": false,
-        "buttonText": "avise-me"
+        "isExternal": true,
+        "buttonText": "Ingressos",
+        "url": "https://www.ingressomix.com/evento/505,506/rafa-e-luiz-em-a-descoberta-do-verdadeiro-face-belem"
     },
     {
         "city": "Belo Horizonte",
