@@ -18,6 +18,7 @@
     },
     {
         "city": "Manaus",
+        "place": "Studio 5",
         "date": "30 nov 2024",
         "isExternal": true,
         "buttonText": "Ingressos",
@@ -25,6 +26,7 @@
     },
     {
         "city": "Belém",
+        "place": "Dubai Eventos",
         "date": "01 dez 2024",
         "isExternal": true,
         "buttonText": "Ingressos",
