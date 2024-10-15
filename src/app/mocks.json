@@ -1,21 +1,6 @@
 [
     
     {
-        "city": "Rio de Janeiro",
-        "place": "Qualistage",
-        "date": "13 out 2024",
-        "isExternal": true,
-        "buttonText": "Esgotado"
-    },
-    {
-        "city": "Rio de Janeiro",
-        "place": "Qualistage",
-        "date": "13 out 2024",
-        "isExternal": true,
-        "buttonText": "Sessão Extra",
-        "url": "https://qualistage.com.br/evento/223/rafa-e-luiz"
-    },
-    {
         "city": "Recife",
         "place": "Teatro Guararapes",
         "date": "24 nov 2024",
@@ -40,11 +25,27 @@
         "url": "https://www.ingressomix.com/evento/505,506/rafa-e-luiz-em-a-descoberta-do-verdadeiro-face-belem"
     },
     {
+        "city": "Rio de Janeiro",
+        "place": "Qualistage",
+        "date": "13 out 2024",
+        "isExternal": true,
+        "buttonText": "Ver Fotos",
+        "url": "https://drive.google.com/drive/folders/1lmOH-P3qJ1Kayrj4bPQzMa5t7vOohxvL?usp=sharing"
+    },
+    {
+        "city": "Rio de Janeiro",
+        "place": "Qualistage",
+        "date": "13 out 2024",
+        "isExternal": true,
+        "buttonText": "Ver Fotos",
+        "url": "https://drive.google.com/drive/folders/1_lHCGYkCLJvoD3s_8Hcj5zZRhm-rSuhg?usp=sharing"
+    },
+    {
         "city": "Belo Horizonte",
         "place": "Minascentro",
         "date": "27 abr 2024",
         "isExternal": true,
-        "buttonText": "Ver fotos",
+        "buttonText": "Ver Fotos",
         "url": "https://drive.google.com/drive/folders/1ygegF7zbdnL0nXib77sgk_Z4cNMBHrbt?usp=sharing"
     },
     {
