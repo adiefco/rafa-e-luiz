@@ -10,7 +10,7 @@ const Card = ({ date, city, place, isExternal, buttonText, url }) => {
 
     var classname
 
-    if (buttonText === 'Ver fotos') {
+    if (buttonText === 'Ver Fotos') {
         classname = 'finished'
     } else if (buttonText === 'Esgotado') {
         classname = 'unavailable'
