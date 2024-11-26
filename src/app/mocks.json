@@ -1,20 +1,20 @@
 [
     
     {
-        "city": "Recife",
-        "place": "Teatro Guararapes",
-        "date": "24 nov 2024",
-        "isExternal": true,
-        "buttonText": "Ingressos",
-        "url": "https://cecontickets.com.br/rafa-luiz-em-a-descoberta-do-verdadeiro-face__1726"
-    },
-    {
         "city": "Manaus",
         "place": "Studio 5",
         "date": "30 nov 2024",
         "isExternal": true,
         "buttonText": "Ingressos",
         "url": "https://www.ingressomix.com/evento/503,504/rafa-e-luiz-em-a-descoberta-do-verdadeiro-face-manaus"
+    },
+    {
+        "city": "Recife",
+        "place": "Teatro Guararapes",
+        "date": "24 nov 2024",
+        "isExternal": true,
+        "buttonText": "Ver Fotos",
+        "url": "https://drive.google.com/drive/folders/1SOMiTxKOqIS840VMZzanKECfBk7EzQDS?usp=drive_link"
     },
     {
         "city": "Rio de Janeiro",
