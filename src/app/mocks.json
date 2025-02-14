@@ -1,65 +1,9 @@
 [
-    
-    {
-        "city": "Manaus",
-        "place": "Studio 5",
-        "date": "30 nov 2024",
-        "isExternal": true,
-        "buttonText": "Ver Fotos",
-        "url": "https://drive.google.com/drive/folders/13Vg67kuzTrHW8__qeLelTaa7KDKUCx6s?usp=sharing"
-    },
-    {
-        "city": "Recife",
-        "place": "Teatro Guararapes",
-        "date": "24 nov 2024",
-        "isExternal": true,
-        "buttonText": "Ver Fotos",
-        "url": "https://drive.google.com/drive/folders/1SOMiTxKOqIS840VMZzanKECfBk7EzQDS?usp=drive_link"
-    },
-    {
-        "city": "Rio de Janeiro",
-        "place": "Qualistage - 17h30",
-        "date": "13 out 2024",
-        "isExternal": true,
-        "buttonText": "Ver Fotos",
-        "url": "https://drive.google.com/drive/folders/1lmOH-P3qJ1Kayrj4bPQzMa5t7vOohxvL?usp=sharing"
-    },
-    {
-        "city": "Rio de Janeiro",
-        "place": "Qualistage - 11h30",
-        "date": "13 out 2024",
-        "isExternal": true,
-        "buttonText": "Ver Fotos",
-        "url": "https://drive.google.com/drive/folders/1_lHCGYkCLJvoD3s_8Hcj5zZRhm-rSuhg?usp=sharing"
-    },
-    {
-        "city": "Belo Horizonte",
-        "place": "Minascentro",
-        "date": "27 abr 2024",
-        "isExternal": true,
-        "buttonText": "Ver Fotos",
-        "url": "https://drive.google.com/drive/folders/1ygegF7zbdnL0nXib77sgk_Z4cNMBHrbt?usp=sharing"
-    },
-    {
-        "city": "Curitiba",
-        "place": "Teatro Positivo",
-        "date": "30 jun 2024",
-        "isExternal": true,
-        "buttonText": "Ver Fotos",
-        "url": "https://drive.google.com/drive/folders/1JfSgBiKaQkQKteuycEZAw3bkirtE5ztJ?usp=sharing"
-    },
-    {
-        "city": "São Paulo",
-        "place": "VIBRA",
-        "date": "06 jul 2024",
-        "isExternal": true,
-        "buttonText": "Ver Fotos",
-        "url": "https://drive.google.com/drive/folders/17w_f8nnrbG-h1Mp_rPaoSGFap2Xdqnvd?usp=sharing"
-    },
     {
         "city": "Porto Alegre",
-        "date": "adiado",
-        "isExternal": false,
-        "buttonText": "avise-me"
+        "date": "17 ago 2025",
+        "isExternal": true,
+        "buttonText": "comprar",
+        "url": "https://bileto.sympla.com.br/event/102996/d/302476"
     }
 ]
