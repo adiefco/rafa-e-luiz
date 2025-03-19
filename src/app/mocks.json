@@ -1,4 +1,11 @@
-[
+[   {
+        "city": "São Paulo",
+        "date": "27 jul 2025",
+        "isExternal": true,
+        "buttonText": "comprar",
+        "place": "Espaço Unimed",
+        "url": "https://www.ticket360.com.br/evento/30671/ingressos-para-rafa-e-luiz-em-a-descoberta-do-verdadeiro-face"    
+    },
     {
         "city": "Porto Alegre",
         "date": "17 ago 2025",
